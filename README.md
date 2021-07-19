@@ -3,11 +3,11 @@
 
 Aim of the project is to detect pallet boxes moving in conveyor
 
-## Table of Content
+<!-- ## Table of Content
 * [Demo](#demo)
 * [Installation](#installation)
 * [Run Locally](#run-locally)
-* [Running Tests](#running-tests)
+* [Running Tests](#running-tests) -->
 
 
 ## Demo
