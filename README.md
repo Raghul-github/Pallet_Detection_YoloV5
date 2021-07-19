@@ -3,6 +3,12 @@
 
 Aim of the project is to detect pallet boxes moving in conveyor
 
+## Table of Content
+* [Demo](#demo)
+* [Installation](#installation)
+* [Run Locally](#run-locally)
+* [Running Tests](#running-tests)
+
 
 ## Demo
   ![ezgif com-gif-maker](https://user-images.githubusercontent.com/73110673/126075587-65edfa23-9f38-4926-b843-da45875a556a.gif)
